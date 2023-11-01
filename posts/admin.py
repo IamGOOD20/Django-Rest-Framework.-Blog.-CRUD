@@ -9,4 +9,3 @@ admin.site.register(Post)
 # blogcrud
 # blog@gmail.com
 # 123blog
-#
