@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'dj_rest_auth',
     'dj_rest_auth.registration',
+    # schem-api
+    'drf_yasg',
 ]
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
